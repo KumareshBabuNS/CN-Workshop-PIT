@@ -463,7 +463,7 @@ The full plugin config should look like the following:
 applications:
 - name: cloud-native-spring
   random-route: true
-  memory: 512M
+  memory: 1G
   instances: 1
   path: ./target/cloud-native-spring-0.0.1-SNAPSHOT-exec.jar
   buildpack: java_buildpack

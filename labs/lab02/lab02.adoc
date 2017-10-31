@@ -385,5 +385,5 @@ urls: cloud-native-spring.cfapps.io
 +
 [source,bash]
 ---------------------------------------------------------------------
-$ curl -i cloud-native-spring.cf.mycloud.com/cities
+$ curl -i https://cloud-native-spring-<random>.cfapps.io/cities
 ---------------------------------------------------------------------
